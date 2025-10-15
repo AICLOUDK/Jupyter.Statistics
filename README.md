@@ -1,5 +1,5 @@
 # IBM-Jupyter.Statistics
-Certainly! Here's an explanation of Jupyter Notebook and statistics:
+Jupyter Notebook and statistics;
 
 Jupyter Notebook;
 Jupyter Notebook is an open-source web application that allows you to create and share documents called "notebooks." These notebooks combine live code, equations, visualizations, narrative text, and interactive outputs in a single document. It is widely used by data scientists, researchers, and educators for data analysis, machine learning, and scientific computing.
