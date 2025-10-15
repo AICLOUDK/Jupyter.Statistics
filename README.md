@@ -1,4 +1,4 @@
-# IBM-Code_Jupyter.Statistics-
+# IBM-Jupyter.Statistics
 Certainly! Here's an explanation of Jupyter Notebook and statistics:
 
 Jupyter Notebook;
