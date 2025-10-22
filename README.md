@@ -1,4 +1,4 @@
-# IBM-Jupyter.Statistics
+# Jupyter.Statistics
 Jupyter Notebook and statistics;
 
 Jupyter Notebook;
